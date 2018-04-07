@@ -4,11 +4,11 @@
 
 Zaimplementuj (samodzielnie) kopiec maksymalizujący i następujące operacje na nim:
 
-- + nr v
+- \+ nr v
     dodanie do kopca o numerze nr liczby v
 
 
-- - nr
+- \- nr
     usunięcie z kopca o numerze nr maksimum i wypisanie go na ekran
 
 - p nr
